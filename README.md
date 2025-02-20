@@ -1,8 +1,8 @@
-README: Jupyter Notebook for Market Capitalization Analysis
+README file for Market Capitalization Analysis
 
 Overview
 
-This Jupyter Notebook processes and analyzes stock market capitalization data. It loads a dataset from a CSV file and performs various operations to extract insights for portfolio diversification.
+This file processes and analyzes stock market capitalization data. It loads a dataset from a CSV file and performs various operations to extract insights for portfolio diversification.
 
 Prerequisites
 
@@ -22,15 +22,6 @@ You can install missing dependencies using:
 
 pip install pandas numpy matplotlib
 
-Usage
-
-Open the Jupyter Notebook:
-
-jupyter notebook W1911180_20211549_IPD.ipynb
-
-Run the cells sequentially to execute the data analysis process.
-
-Ensure the dataset (market-capitalization.csv) is in the correct directory before execution.
 
 Data
 
