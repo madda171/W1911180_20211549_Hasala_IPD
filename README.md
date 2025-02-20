@@ -45,14 +45,4 @@ Run the cells sequentially to execute the data analysis process.
 
 Ensure the dataset (market-capitalization.csv) is in the correct directory before execution.
 
-Data
-
-The notebook reads a file named market-capitalization.csv.
-
-Ensure the dataset is formatted correctly, with relevant columns such as company names, market capitalization, etc.
-
-Output
-
-The notebook provides processed data and may include visualizations if applicable.
-
 This notebook was developed as part of a project related to portfolio diversification using clustering techniques.
